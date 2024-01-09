@@ -1,0 +1,9 @@
+{
+	"name": "ADFsessionn",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5c132f5a-b762-4870-aafb-7c3672747f1b",
+		"tenantId": "ebb9aa48-ce5c-4c52-9866-b380cc8875ff"
+	}
+}
